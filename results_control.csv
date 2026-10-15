@@ -1,0 +1,10 @@
+slo,strategy,median_false_pages_per_12h,max_false_pages_per_12h,seeds_with_any_page
+0.99,static,0.0,0,0
+0.99,burn,0.0,0,0
+0.99,scaled,0.0,0,0
+0.995,static,0.0,0,0
+0.995,burn,0.0,0,0
+0.995,scaled,0.0,0,0
+0.999,static,0.0,0,0
+0.999,burn,0.0,0,0
+0.999,scaled,0.0,0,0
